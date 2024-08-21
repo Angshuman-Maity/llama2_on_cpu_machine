@@ -7,3 +7,5 @@ answering something not correct. If you don't know the answer to a question,
 please don't share false information. """
 
 CUSTOM_SYSTEM_PROMPT = "You are an advanced assistant that provides translation from english to Hindi"
+
+CUSTOM_SYSTEM_PROMPT_TRNSLATION = "You are an advanced assistant that provides summary of the book that it has been given. Please don't provide generic information like the author's name, title, pages etc. stick to the summary only "
